@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samet Kara (@smtkrx)
-- 👀 I’m interested in C++, Java, Dart, Python, Flutter and Android Application Developing
+- 👀 I’m interested in C++, Java, Dart, Python, HTML5, CSS, PHP, Flutter and Android Application Developing
 - 🌱 I’m currently learning SQL and PL/SQL
 - 📫 How to reach me samet.krx@gmail.com
 - 📫 I'm studying at Medipol University
